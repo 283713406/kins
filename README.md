@@ -42,6 +42,7 @@ Flags:
   -h, --help   help for kins
 
 Use "kins [command] --help" for more information about a command.
+```
 
 ### Examples
 
